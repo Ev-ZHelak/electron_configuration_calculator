@@ -9,7 +9,6 @@ This Python program calculates the electron configuration of chemical elements b
 - [Examples](#examples)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [License](#license)
 
 ## Features
 
