@@ -1,4 +1,4 @@
-from os import system
+#from os import system
 
 
 # system("title Химия")
